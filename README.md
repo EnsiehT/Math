@@ -1,1 +1,2 @@
 # Math
+**Second degree equation**
